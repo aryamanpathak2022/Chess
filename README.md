@@ -1,5 +1,3 @@
-Certainly! Here's a sample `README.md` for your chess repository using WebSocket with JavaScript (Node.js) and NestJS. You can adjust it according to your project's specific details:
-
 
 # Chess Game with WebSocket
 
