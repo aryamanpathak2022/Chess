@@ -3,7 +3,7 @@ Certainly! Here's a sample `README.md` for your chess repository using WebSocket
 
 # Chess Game with WebSocket
 
-[chessapp](image.png)
+![chessapp](image.png)
 
 ## Overview
 
